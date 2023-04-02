@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmws)](https://github.com/yasmws/yasmws)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmws&show_icons=true&theme=transparent)
