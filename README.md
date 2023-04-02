@@ -2,9 +2,6 @@
 ### Pronomes: Ela/Dela; Pronouns: She/Her
 
 <a href="https://github.com/yasmws/yasmws">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yasmws&repo=yasmws&theme=nightowl" />
-</a>
-<a href="https://github.com/yasmws/yasmws">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yasmws&show_icons=true&theme=nightowl" />
 </a>
 
