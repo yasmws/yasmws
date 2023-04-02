@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Oi, tudo bem? My name is Yasmin Soares 👋
+### Pronomes: Ela/Dela; Pronouns: She/Her
 <!--
 **yasmws/yasmws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmws&show_icons=true&theme=transparent)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasmws&repo=yasmws)](https://github.com/yasmws/yasmws)
+<a href="https://github.com/yasmws/yasmws">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yasmws&repo=yasmws&theme=nightowl" />
+</a>
+<a href="https://github.com/yasmws/yasmws">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yasmws&show_icons=true&theme=nightowl" />
+</a>
