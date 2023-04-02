@@ -1,4 +1,4 @@
-# Oi, tudo bem? My name is Yasmin Soares 👋
+# Oi, tudo bem? Meu nome é Yasmin Soares👋
 ### Pronomes: Ela/Dela; Pronouns: She/Her
 <!--
 **yasmws/yasmws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
