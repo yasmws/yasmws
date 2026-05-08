@@ -9,6 +9,14 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o0Zmh4Mzh4Nzh4b3hkcGFndWNvZWZtNm9uaWVhNzh5ZndlbnlyciZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13OZNX4Xp3t9Y4/giphy.gif" width="300" alt="Cute Anime Coding" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Storyteller+%F0%9F%93%8A;Python+Enthusiast+%F0%9F%90%8D;Always+Learning+Something+New+%F0%9F%8C%B1;Turning+Coffee+Into+Code+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o0Zmh4Mzh4Nzh4b3hkcGFndWNvZWZtNm9uaWVhNzh5ZndlbnlyciZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/13OZNX4Xp3t9Y4/giphy.gif" width="280" alt="Cute Anime Coding" />
+</p>
+
 ---
 
 ### 🌸 About Me
@@ -26,23 +34,56 @@ I am a passionate developer focused on Python and Data Science. I love turning m
 ### 🎨 Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=6e00ff" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=a78bfa" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&color=d8b4fe" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white&color=6e00ff" />
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white&color=a78bfa" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=d8b4fe" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=6e00ff" />
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white&color=a78bfa" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&color=d8b4fe" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=a78bfa" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&color=6e00ff" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&color=d8b4fe" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&color=6e00ff" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&color=a78bfa" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&color=d8b4fe" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&color=6e00ff" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&color=a78bfa" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white&color=6e00ff" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white&color=d8b4fe" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white&color=6e00ff" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white&color=a78bfa" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&color=6e00ff" />
+</p>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=yasmws&show_icons=true&theme=dracula&title_color=a78bfa&icon_color=6e00ff&border_color=6e00ff&bg_color=0d1117" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmws&layout=compact&theme=dracula&title_color=a78bfa&border_color=6e00ff&bg_color=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasmws&theme=dracula&hide_border=true&ring=a78bfa&fire=6e00ff&currStreakLabel=a78bfa&sideLabels=e1e1e1&currStreakNum=e1e1e1&dates=c1c1c1&background=0D1117&border=6e00ff"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yasmws&theme=dracula&column=4&margin-w=15&margin-h=15&no-frame=false&title_color=a78bfa&border_color=6e00ff"/>
+</p>
+
+<details>
+  <summary>📈 More Stats (Click to expand)</summary>
+  <br>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasmws&theme=dracula"/>
+  </p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yasmws&theme=dracula"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yasmws&theme=dracula"/>
+  </p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yasmws&theme=dracula"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yasmws&theme=dracula&utcOffset=-3"/>
+  </p>
+</details>
+
 
 ---
 
