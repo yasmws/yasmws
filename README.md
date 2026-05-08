@@ -34,15 +34,6 @@ I am a passionate developer focused on Python and Data Science. I love turning m
 
 ---
 
-### 🎵 My Coding Jams
-<p align="center">
-  <a href="https://open.spotify.com/user/21grb7vqj3ggxcgaclst5anyi?si=bd6e1f8c51514c89">
-    <img src="https://novatide.vercel.app/api/spotify?background_color=0d1117&border_color=ff0055&bar_color=6e00ff" alt="Spotify Now Playing" width="450" />
-  </a>
-</p>
-
----
-
 ### 📫 Connect with Yas!
 <p align="center">
   <a href="https://linkedin.com/in/yasmws" target="_blank">
